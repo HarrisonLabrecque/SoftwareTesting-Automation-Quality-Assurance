@@ -1,5 +1,7 @@
 # SoftwareTesting-Automation-Quality-Assurance
 
+This repository contains my coding assignments, projects, and written work for the software testing, automation, and quality assurance course at Southern New Hampshire University.
+
 # How can I ensure that my code, program, or software is functional and secure?
 
 To ensure my code is functional, I start by carefully following all technical requirements and breaking the problem down into smaller, manageable tasks. I write classes and methods that perform a single function to keep the code simple, straightforward, and easy to test. In-line comments explain the logic behind each technique, and I include header descriptions for each class to enhance readability and maintainability. I apply static testing techniques to evaluate future functionality and anticipate potential issues before they arise.
